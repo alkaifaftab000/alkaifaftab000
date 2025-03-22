@@ -9,6 +9,7 @@
 - 🔭 Currently working on **Learning Management System**
 - 🌱 Learning **Flutter** and **Golang**
 - 💬 Ask me about **Dart, Flutter, Machine Learning**
+- 📫 How to reach me **[alkaif.aftab000@outlook.com](mailto:alkaif.aftab000@outlook.com)**
 
 ### 👨‍💻 Languages
 <p align="left" style="margin: 15px 0;">
