@@ -10,7 +10,7 @@
 - 🌱 Learning **Flutter** and **Golang**
 - 💬 Ask me about **Dart, Flutter, Machine Learning**
 - 📫 How to reach me **[alkaif.aftab000@outlook.com](mailto:alkaif.aftab000@outlook.com)**
-- 💣 My porfolio and public **[profile](https://vercel.com/alkaifaftab000s-projects/profolio-alkaif)**
+- 💣 My porfolio and public **[profile](https://profolio-alkaif.vercel.app/)**
 
 ### 👨‍💻 Languages
 <p align="left" style="margin: 15px 0;">
